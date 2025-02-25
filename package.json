@@ -1,0 +1,15 @@
+{
+  "name": "@vps.dev/mern-setup",
+  "version": "1.0.7",
+  "description": "Setup mern project using bash",
+  "license": "ISC",
+  "author": "vps",
+  "type": "module",
+  "files": [
+    "mern-setup.js",
+    "mern-setup.sh"
+  ],
+  "bin": {
+    "mern-setup": "./mern-setup.js"
+  }
+}
