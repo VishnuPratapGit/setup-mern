@@ -7,13 +7,13 @@ A CLI tool to quickly set up a MERN (MongoDB, Express, React, Node.js) project u
 You can use `npx` to run the script without installing it globally:
 
 ```sh
-npx @vps.dev/mern-setup
+npx @vps.dev/setup-mern
 ```
 
 Or install it globally:
 
 ```sh
-npm install -g @vps.dev/mern-setup
+npm install -g @vps.dev/setup-mern
 ```
 
 ## 🚀 Usage
@@ -21,7 +21,7 @@ npm install -g @vps.dev/mern-setup
 Once installed, you can run the setup command:
 
 ```sh
-mern-setup
+setup-mern
 ```
 
 ## ⚠️ Prerequisite: Bash Required
